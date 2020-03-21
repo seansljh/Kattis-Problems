@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="406ef90a-0d76-4058-8ceb-f8fe166c12d2" name="Default Changelist" comment="" />
+    <list default="true" id="9cb09dc0-e9f3-407e-aa47-cf2df21dc5ec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1Z3Ds35zkhhQuLEJPvZEc7UHHVe" />
+  <component name="ProjectId" id="1ZMyOwxcuAvgYxmhiuAqphNJLex" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,9 +34,6 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -49,9 +46,9 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Kattis_Workstations(Lab 6)" />
+      <module name="KattisQuest_Lab7" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/2.in" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/1.in" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,14 +107,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="406ef90a-0d76-4058-8ceb-f8fe166c12d2" name="Default Changelist" comment="" />
-      <created>1584059086559</created>
+      <changelist id="9cb09dc0-e9f3-407e-aa47-cf2df21dc5ec" name="Default Changelist" comment="" />
+      <created>1584663228676</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584059086559</updated>
-      <workItem from="1584059088271" duration="3009000" />
-      <workItem from="1584087948835" duration="10779000" />
-      <workItem from="1584663186963" duration="10000" />
+      <updated>1584663228676</updated>
+      <workItem from="1584663230584" duration="4010000" />
+      <workItem from="1584796091207" duration="94000" />
     </task>
     <servers />
   </component>
@@ -125,37 +121,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="20" key="#Project_Structure" timestamp="1584059096698">
+    <state x="96" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584667202991">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="20" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1584059096698" />
-    <state x="96" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584097320634">
+    <state x="96" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1584667202991" />
+    <state x="421" y="117" key="FileChooserDialogImpl" timestamp="1584667201711">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="96" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1584097320634" />
-    <state x="421" y="117" key="FileChooserDialogImpl" timestamp="1584097319877">
+    <state x="421" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1584667201711" />
+    <state width="610" height="186" key="GridCell.Tab.0.bottom" timestamp="1584667791121">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1584097319877" />
-    <state width="1237" height="112" key="GridCell.Tab.0.bottom" timestamp="1584108371587">
+    <state width="610" height="186" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584667791121" />
+    <state width="610" height="186" key="GridCell.Tab.0.center" timestamp="1584667791121">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584108371587" />
-    <state width="1237" height="112" key="GridCell.Tab.0.center" timestamp="1584108371586">
+    <state width="610" height="186" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1584667791121" />
+    <state width="610" height="186" key="GridCell.Tab.0.left" timestamp="1584667791121">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1584108371586" />
-    <state width="1237" height="112" key="GridCell.Tab.0.left" timestamp="1584108371585">
+    <state width="610" height="186" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1584667791121" />
+    <state width="610" height="186" key="GridCell.Tab.0.right" timestamp="1584667791121">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1584108371585" />
-    <state width="1237" height="112" key="GridCell.Tab.0.right" timestamp="1584108371587">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584108371587" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1584107396162">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1584107396162" />
+    <state width="610" height="186" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584667791121" />
   </component>
 </project>
