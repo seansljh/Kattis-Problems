@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ea0511-dbeb-42ef-b621-44bf0c09ac22" name="Default Changelist" comment="" />
+    <list default="true" id="0508cf6f-8ae3-42c0-b154-a0598b43c38b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1a0rEXXcKgg4tDnpBKZthGBlhzR" />
+  <component name="ProjectId" id="1a4xSfhyRoomL4QQx9XnCEgsTQT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,7 +49,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab9" />
+      <module name="4A" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,14 +109,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75ea0511-dbeb-42ef-b621-44bf0c09ac22" name="Default Changelist" comment="" />
-      <created>1585883240153</created>
+      <changelist id="0508cf6f-8ae3-42c0-b154-a0598b43c38b" name="Default Changelist" comment="" />
+      <created>1586008668777</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585883240153</updated>
-      <workItem from="1585883241955" duration="64000" />
-      <workItem from="1585883316045" duration="7523000" />
-      <workItem from="1586008646911" duration="10000" />
+      <updated>1586008668777</updated>
+      <workItem from="1586008670247" duration="2336000" />
+      <workItem from="1586013786418" duration="114000" />
+      <workItem from="1586352697924" duration="7000" />
+      <workItem from="1587103947843" duration="1083000" />
+      <workItem from="1587130749822" duration="99000" />
     </task>
     <servers />
   </component>
@@ -124,36 +126,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="20" key="#Project_Structure" timestamp="1585883271566">
+    <state x="233" y="20" key="#Project_Structure" timestamp="1586008675552">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="20" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1585883271566" />
-    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1585891709574">
+    <state x="233" y="20" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1586008675552" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1586013900304">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1585891709574">
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586013900304" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1586013900304">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1585891709574">
+    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586013900304" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1586013900304">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1585891709574">
+    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586013900304" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1586013900304">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586013900304" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ea0511-dbeb-42ef-b621-44bf0c09ac22" name="Default Changelist" comment="" />
+    <list default="true" id="cc0673af-c9b6-4364-ad93-efd7132aba43" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1a0rEXXcKgg4tDnpBKZthGBlhzR" />
+  <component name="ProjectId" id="1aKbGSn3JTprgY2m51ux9JJPEBH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,9 +34,6 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -49,7 +46,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab9" />
+      <module name="Lab10" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,14 +106,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75ea0511-dbeb-42ef-b621-44bf0c09ac22" name="Default Changelist" comment="" />
-      <created>1585883240153</created>
+      <changelist id="cc0673af-c9b6-4364-ad93-efd7132aba43" name="Default Changelist" comment="" />
+      <created>1586487136767</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585883240153</updated>
-      <workItem from="1585883241955" duration="64000" />
-      <workItem from="1585883316045" duration="7523000" />
-      <workItem from="1586008646911" duration="10000" />
+      <updated>1586487136767</updated>
+      <workItem from="1586487138715" duration="2230000" />
+      <workItem from="1587092201583" duration="10000" />
     </task>
     <servers />
   </component>
@@ -124,36 +120,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="20" key="#Project_Structure" timestamp="1585883271566">
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1586489371563">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="20" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1585883271566" />
-    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1585891709574">
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586489371563" />
+    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1586489371563">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1585891709574">
+    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586489371563" />
+    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1586489371563">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1585891709574">
+    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586489371563" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1586489371563">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1585891709574">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585891709574" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586489371563" />
   </component>
 </project>
